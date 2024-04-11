@@ -33,7 +33,7 @@ const Carousel = styled(Slider)`
     ul li button{
         &:before{
             font-size: 10px;
-            color: rgb(150, 150, 171)
+            color: rgb(150, 150, 171);
         }
     }
 
