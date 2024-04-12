@@ -43,7 +43,8 @@ const Container = styled.div`
 const Content = styled.div`
     display: grid;
     gap: 25px;
-    grid-template-columns: repeat(4, minmax(0, 1fr))
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    padding-bottom: 20px;
 `
 const Wrap = styled.div`
     border-radius: 10px;
